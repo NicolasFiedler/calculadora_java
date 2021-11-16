@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraNicolas</string>
+    <string name="bt1">1</string>
+    <string name="btBackspace">BACKSPACE</string>
+</resources>
